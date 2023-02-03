@@ -32,9 +32,6 @@ $ npm run generate
 
 For more information on how this works, check out [Nuxt.js docs](https://nuxtjs.org) and [Vuetify docs](https://vuetifyjs.com/en/getting-started/quick-start).
 
-### Credit
-
-Thanks to [@Michael Wang](https://github.com/tookit) for this awesome admin template.
 
 ### Contributing
 
